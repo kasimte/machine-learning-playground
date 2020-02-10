@@ -1,2 +1,3 @@
-# pandas-playground
-A playground for pandas
+# Machine Learning Playground
+
+A playground for machine learning tactics.
